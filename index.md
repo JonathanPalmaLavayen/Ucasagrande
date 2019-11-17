@@ -1,8 +1,7 @@
 ## Hola Jonathan Palma
 
-You can use the [editor on GitHub](https://github.com/JonathanPalmaLavayen/Ucasagrande/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Trabajos de visualización de datos de la materia Cibergéneros Periodísticos 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
